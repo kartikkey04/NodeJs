@@ -1,1 +1,1 @@
-require('./modules/os');
+require('./modules/os-module');
